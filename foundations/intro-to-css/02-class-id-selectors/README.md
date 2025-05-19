@@ -10,6 +10,11 @@ It isn't entirely important which class or ID values you use, as the focus here 
 * **The third element**: in addition to the styles for all odd numbered elements, add a font size of 24px
 * **The fourth element**: a light green background, a font size of 24px, and bold
 
+// All Odd - <p> elements - class paragraph
+//# 2 - ID
+//# 3 - ID
+// #4 - paragraph class + ID
+
 Quick tip: in VS Code, you can change which format colors are displayed in RGB, HEX, or HSL by hovering over the color value in the CSS and clicking the top of the popup that appears!
 
 > ### Note:

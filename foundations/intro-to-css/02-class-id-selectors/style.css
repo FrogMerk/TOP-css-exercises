@@ -1,0 +1,21 @@
+/* Style.CSS */
+.paragraph{
+  background-color: salmon;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+/* need to make sure that fonts with spaces are contained within quotes. this adjusted from original */
+#two{
+  color: blue;
+  font-size: 36px;
+}
+
+#three{
+  font-size: 24px; 
+  /* missed that this and #four were adding the same font size and could have been managed together*/
+}
+
+#four{
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
